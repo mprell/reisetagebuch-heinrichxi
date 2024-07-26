@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reise Herrn Heinrich d. XI. durch Teutschland Franckr. u. Italien</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/140148671">
+                  <surname>Geusau</surname>
+                  <forename>Anton</forename>
+                  <nameLink>von</nameLink>
+               </persName>
+            </author>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/108172692X">
+                  <surname>Beckus</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1279225718">
+                  <surname>Gruner</surname>
+                  <forename>Marita</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1193004985">
+                  <surname>Grunewald</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <persName>
+                  <surname>Mögelin</surname>
+                  <forename>Sabrina</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1133022898">
+                  <surname>Prell</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Herausgeber:innen</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/108172692X">
+                  <surname>Beckus</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1279225718">
+                  <surname>Gruner</surname>
+                  <forename>Marita</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1193004985">
+                  <surname>Grunewald</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <persName>
+                  <surname>Mögelin</surname>
+                  <forename>Sabrina</forename>
+               </persName>
+               <persName ref="https://d-nb.info/gnd/1133022898">
+                  <surname>Prell</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeiter:innen</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1133022898">
+                  <surname>Prell</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Datentransformation</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Jungmann</surname>
+                  <forename>Saskia</forename>
+               </persName>
+               <persName>
+                  <surname>Schröder</surname>
+                  <forename>Nikolas</forename>
+               </persName>
+               <persName>
+                  <surname>Lewen</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName ref="https://www.uni-jena.de">Lehrstuhl für Geschlechtergeschichte der Friedrich-Schiller-Universität Jena</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Projektträger</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName ref="https://thueringen.de/staatskanzlei">Thüringer Staatskanzlei</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Projektförderer</note>
+               </resp>
+            </respStmt>
+            <respStmt ref="https://www.thulb.uni-jena.de/home" xml:id="bq-1" corresp="#availability-bq-1">
+               <orgName>Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Bilddigitalisierung von Editionsvorlage und deren Abschrift sowie Bereitstellung der Digitalisate</note>
+                  <ref target="https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-235620"/>
+                  <ref target="https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-235636"/>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <orgName ref="http://www.sommerpalais-greiz.de">Staatliche Bücher- und Kupferstichsammlung Greiz</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Digitalisierungsvorlagen</note>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe.</edition>
+         </editionStmt>
+         <extent>
+            <measure type="images"></measure>
+            <measure type="tokens"></measure>
+            <measure type="types"></measure>
+            <measure type="characters"></measure>
+         </extent>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <email>dta@bbaw.de</email>
+               <orgName role="project">Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                  <country>Germany</country>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication"><!--tba--></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>Namensnennung 4.0 International (CC BY 4.0)</p>
+               </licence>
+            </availability>
+            <availability xml:id="availability-bq-1" corresp="#bq-1">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <p>CC BY-NC-SA 4.0</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="URLWeb">
+                  https://www.deutschestextarchiv.de/geusau_reisetagebuchHeinrichxiReuss_1740
+               </idno>
+               <idno type="URLXML">
+                  https://www.deutschestextarchiv.de/book/download_xml/geusau_reisetagebuchHeinrichxiReuss_1740
+               </idno>
+               <idno type="URLHTML">
+                  https://www.deutschestextarchiv.de/book/download_html/geusau_reisetagebuchHeinrichxiReuss_1740
+               </idno>
+               <idno type="URLText">
+                  https://www.deutschestextarchiv.de/book/download_text/geusau_reisetagebuchHeinrichxiReuss_1740
+               </idno>
+               <idno type="DTADirName">geusau_reisetagebuchHeinrichxiReuss_1740</idno>
+               <idno type="DTAID"><!--tba--></idno>
+               <idno type="URN"><!--tba--></idno>
+            </idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="remarkDocument"><!--Zenodo-Link zu Zweitpublikation mit umfassenderem Tagset, Register und XSLT-Skripten--></note>
+            <note type="remarkDocument">Bearbeitungsstand: gründliche Ersttranskription ist erfolgt (erneute Kollationierung ausstehend); Entitätenannotation zu 90 Prozent abgeschlossen; grundständige Strukturkodierung ist erfolgt</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="MAN">Geusau, Anton von: Reise Herrn Heinrich d. XI. durch Teutschland Franckr. u. Italien [1740-1742].</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="m" type="main">Reise Herrn Heinrich d. XI. durch Teutschland Franckr. u. Italien.</title>
+                  <author>
+                     <persName ref="http://d-nb.info/gnd/140148671">
+                        <surname>Geusau</surname>
+                        <forename>Anton</forename>
+                        <nameLink>von</nameLink>
+                     </persName>
+                  </author>
+               </titleStmt>
+               <editionStmt>
+                  <edition n="1"/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher/>
+                  <pubPlace>[Greiz (Thüringen)]</pubPlace>
+                  <date type="publication">[1740-1742]</date>
+               </publicationStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Staatliche Bücher- und Kupferstichsammlung Greiz</repository>
+                  <idno>
+                     <idno type="shelfmark">DB 2316</idno>
+                     <idno type="URLCatalogue">https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-235620</idno>
+                     <idno type="URLImages">https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-235620-8-0016</idno>
+                  </idno>
+                  <idno type="URLIIIF">https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00023562/manifest</idno>
+               </msIdentifier>
+               <physDesc>
+                  <handDesc>
+                     <p>Handschrift</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               Das Endendum der vorliegenden Edition bildet das Tagebuch zur Kavalierstour des pietistischen Grafen Heinrich XI. Reuß zu Obergreiz (1722-1800) durch das Heilige Römische Reich deutscher Nation, Frankreich, die Schweiz, Italien und Österreich in den Jahren 1740–1742. Es besteht aus 443 Tagebucheinträgen auf 784 Seiten, die in 71 Briefen in die Heimat übersandt wurden. Verfasser des Tagebuchs ist der Köstritzer Hofmeister Anton von Geusau (1695–1749). Im Tagebuch bietet dieser nicht nur Einblicke in die international vernetzte Welt des Hochadels, sondern überliefert auch tiefgehende Einblicke in die wirtschaftlichen, sozialen, religiösen und politischen Entwicklungen in den besuchten Ländern. Dies ist vor allem für die im politischen System Europas stattfindenden Veränderungen relevant. So führte der Aufstieg Preußens zur Großmacht zu einer Neuordnung des europäischen Mächtesystems. In die Zeit seiner Kavalierstour fallen beispielsweise der Tod des Römisch-Deutschen Kaisers Karl VI. (1685–1740) und der sich daran anschließende Österreichische Erbfolgekrieg mit seinen Auswirkungen auf das europäische Mächtesystem. Besonders aufschlussreich sind die zahlreichen wiedergegebenen Gespräche zwischen den Reisenden und anderen Adligen, Geistlichen und Gelehrten zumeist katholischer Provenienz. Diese ermöglichen vielfältige Einblicke in die Gedanken- und Vorstellungswelt des Verfassers, seiner Mitreisenden und Gesprächspartner. Hieran werden Kontaktzonen für interkonfessionellen Austausch, aber auch Grenzen des Sag- oder Machbaren deutlich: Heinrich XI. und von Geusau waren pietistisch-fromme Lutheraner, die die auf der Reise gemachten Erfahrungen vor ihrem konfessionellen Erfahrungshintergrund spiegelten, werteten und einordneten<lb/>
+               Die Edition wurde zunächst mit Hilfe der virtuellen Forschungsumgebung <ref target="https://fud.uni-trier.de/">FuD</ref> erstellt, die im Rahmen des Projektes <ref target="https://editionenportal.de">Editionenportal Thüringen</ref> an der Thüringer Universitäts- und Landesbibliothek Jena (ThULB) implementiert wurde. Nach Einstellung dieses Infrastrukturprojekts fand eine Transformation des FuD-XML in das DTABf im Rahmen eines FAIR-Data-Stipendiums der <ref target="https://4memory.de/">NFDI4Memory</ref> statt. Die Digitalisierung des originalen Brieftagebuchs und einer zeitgenössischen Abschrift erfolgte über die ThULB. Die vorliegende Edition umfasst eine vorlagennahe und zeilengenaue Umschrift der kurrenten Handschrift in moderne lateinische Buchstaben. Eine gründliche Ersttranskription ist erfolgt; eine abschließende Kollationierung steht noch aus. Die XML-Daten umfassen zum gegenwärtigen Zeitpunkt zudem eine grundständige Strukturkodierung (Briefe, Tagebucheinträge, Kopfzeilen, Absätze, Seiten- und Zeilenwechsel) und eine TEI-konforme Auszeichnung grundlegender formal-textkritischer Phänomene (Hervorhebungen, Autorkorrekturen, editorische Konjekturen, Unlesbarkeiten, Abkürzungen mit Auflösungen). Abweichungen der <ref target="https://nbn-resolving.org/urn:nbn:de:urmel-hisbest-235636">zeitgenössische Abschrift</ref> vom originalen Autographen wurden bis dato nicht erfasst. Topographische Informationen der Autorkorrekturen wurden erfasst. Einrückungen am Zeilenbeginn und innerhalb von Zeilen wurden nicht wiedergegeben. Horizontale Leerräume wurden nicht genau, sondern als einfache Leerzeilen wiedergegeben. Für bisher 49 der insgesamt 71 Briefe wurden zudem die darin erwähnten inhaltlich-semantischen Entitäten (Personen/Körperschaften, Gruppen, Geografika, Ereignisse und Objekte (z.B. Bücher, Gebäude, Statuen, Karten, Gemälde etc.)) kodiert und unter Nutzung von GND-Verweisen identifiziert.
+            </p>
+            <p>
+               Bogensignaturen: keine Angabe;
+               Druckfehler: keine Angabe;
+               fremdsprachliches Material: nicht markiert;
+               Geminations-/Abkürzungsstriche: mnarkiert, expandiert;
+               Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): nicht markiert;
+               i/j in Fraktur: Lautwert transkribiert;
+               I/J in Fraktur: Lautwert transkribiert;
+               Kolumnentitel: keine Angabe;
+               Kustoden: keine Angabe;
+               langes s (ſ): als s transkribiert;
+               Normalisierungen: keine;
+               rundes r (&amp;#xa75b;): als r/et transkribiert;
+               Seitenumbrüche markiert: ja;
+               Silbentrennung: wie Vorlage;
+               u/v bzw. U/V: Lautwert transkribiert;
+               Vokale mit übergest. e: als ä/ö/ü transkribiert;
+               Vollständigkeit: vollständig erfasst;
+               Zeichensetzung: DTABf-getreu;
+               Zeilenumbrüche markiert: ja;
+            </p>
+         </editorialDecl>
+         <tagsDecl>
+            <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+            <rendition scheme="css" xml:id="ow">background:#f0f0f0;color:darkred;text-decoration:line-through</rendition>
+            <rendition scheme="css" xml:id="s">text-decoration:line-through</rendition>
+            <rendition scheme="css" xml:id="smaller">font-size:smaller</rendition>
+            <rendition scheme="css" xml:id="sup">vertical-align:super; font-size:.7em</rendition>
+            <rendition scheme="css" xml:id="u">text-decoration:underline</rendition>
+            <rendition scheme="css" xml:id="v"></rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu">German</language>
+            <language ident="fra">French</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dtae</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Reiseliteratur</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
