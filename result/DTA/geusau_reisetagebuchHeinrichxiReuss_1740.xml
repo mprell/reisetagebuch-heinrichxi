@@ -169,7 +169,7 @@
             </idno>
          </publicationStmt>
          <notesStmt>
-            <note type="remarkDocument">Eine alternative Version dieser Datei mit erweitertem Tagset (TEI_all-Schema) und Registerdatei befindet sich auf <ref target="10.5281/zenodo.12917283">Zenodo</ref>.</note>
+            <note type="remarkDocument">Eine alternative Version dieser Datei mit erweitertem Tagset (TEI_all-Schema) und Registerdatei befindet sich auf <ref target="https://zenodo.org/records/12917283">Zenodo</ref>.</note>
             <note type="remarkDocument">Bearbeitungsstand: gründliche Ersttranskription ist erfolgt (erneute Kollationierung ausstehend); Entitätenannotation zu 90 Prozent abgeschlossen; grundständige Strukturkodierung ist erfolgt.</note>
          </notesStmt>
          <sourceDesc>
