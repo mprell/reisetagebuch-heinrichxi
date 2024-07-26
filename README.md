@@ -1,4 +1,4 @@
-# reisetagebuch-heinrichxi
+# Reisetagebuch Heinrichs XI. Reuß-Greiz 1740-1742
 Data of Scholarly Edition of the Diary of the Travel of Heinrich XI. Reuß-Greiz 1740-1742
 
 Licence of all Files except the img-Files: CC BY 4.0
