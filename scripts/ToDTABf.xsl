@@ -33,13 +33,9 @@
     
     <xsl:template match="/">
         <xsl:text>&#10;</xsl:text>
-        <xsl:processing-instruction name="xml-model">
-            href="https://www.deutschestextarchiv.de/doku/basisformat/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0
-        </xsl:processing-instruction>
+        <xsl:processing-instruction name="xml-model">href="https://www.deutschestextarchiv.de/doku/basisformat/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
         <xsl:text>&#10;</xsl:text>
-        <xsl:processing-instruction name="xml-model">
-            href="https://www.deutschestextarchiv.de/doku/basisformat/basisformat_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
-        </xsl:processing-instruction>
+        <xsl:processing-instruction name="xml-model">href="https://www.deutschestextarchiv.de/doku/basisformat/basisformat_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
         <xsl:text>&#10;</xsl:text>
         <xsl:variable name="serialize">
             <xsl:copy-of select="."/>
